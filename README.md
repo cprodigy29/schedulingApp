@@ -1,2 +1,0 @@
-# schedulingApp
-### a Sails application
